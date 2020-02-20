@@ -2,7 +2,7 @@ package org.example;
 
 /**
  * Hello world!
- *
+ * Author Puja
  */
 public class App 
 {

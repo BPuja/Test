@@ -74,7 +74,7 @@ public class AutomationAssignments {
     public void question5() throws InterruptedException{
         //5. Choose sex as female
 
-        
+
         WebElement female_radio_button=driver.findElement(By.id("sex-1"));
         female_radio_button.click();
 
